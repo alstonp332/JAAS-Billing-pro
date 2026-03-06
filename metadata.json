@@ -1,0 +1,7 @@
+{
+  "name": "JAAS Billing Pro AI",
+  "description": "Free Invoice Template & Generator. Make beautiful Invoices with one click! Instantly create, send, and download unlimited professional invoices with JAAS Billing Pro AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
